@@ -1,0 +1,9 @@
+# Join Message is shown when somebody joins! use {player} to show
+#the username and make sure to add speech marks if you want
+#to use this and colour coding!
+JoinMessage: "Somebody Joined the server!"
+
+
+# Leave Message is shown when somebody leaves! use {player} to #show the username and make sure to add speech marks if you want
+#to use this and colour coding!
+LeaveMessage: "Somebody Left the server!"
